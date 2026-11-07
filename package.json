@@ -8,7 +8,7 @@
   "types": "./dist/spotclean.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/utilarium/spotclean.git"
+    "url": "git+https://github.com/tobrien/spotclean.git"
   },
   "exports": {
     ".": {
@@ -50,7 +50,7 @@
   ],
   "author": "Tim O'Brien <tobrien@discursive.com>",
   "license": "Apache-2.0",
-  "homepage": "https://utilarium.github.io/spotclean/",
+  "homepage": "https://tobrien.github.io/spotclean/",
   "engines": {
     "node": ">=24.0.0"
   },
